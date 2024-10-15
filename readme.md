@@ -41,7 +41,6 @@ This is optional. The default theme is dark.
 
 Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
 
-
 **Light Theme Example:**
 
 ```md
